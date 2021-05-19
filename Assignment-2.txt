@@ -1,0 +1,37 @@
+// C++ code
+PROJECT OF GARAGE USING ULTRA SONIC SENSOR
+//
+int trigpin=3;
+int echopin=5;
+#include<Servo.h>
+Servo myservo;
+void setup()
+{
+  pinMode(trigpin, OUTPUT);
+  pinMode(echopin, INPUT);
+  myservo.attach(7);
+  Serial.begin(9600);
+  
+}
+
+void loop()
+{
+  digitalWrite(trigpin, HIGH);
+  delay(1000);
+  digitalWrite(trigpin, LOW);
+  float duration=pulseIn(echopin, HIGH);
+  float distance=duration*0.0343/2;
+  Serial.print("The distance is:");
+  Serial.println(distance);
+  delay(1000);
+  if(distance>80){
+    myservo.write(90);
+    Serial.print("The garage door is open");
+    delay(10000);
+    myservo.write(0);
+    Serial.print("The garage door is closed"); 
+  }
+  else{
+    myservo.write(0);
+  }
+}

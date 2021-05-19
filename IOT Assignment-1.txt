@@ -1,0 +1,21 @@
+List out 20 use cases of internet of things:
+1.These are used in fitness bands:like tracking heart beat
+2.smart cars like Tesla
+3.Voice assistants-Alexa
+4.predictive maintenance in the industries
+5.Smart metering-which measures energy,water or natural gas consumption in a bulding or house
+6.Asset tracking-used to findout or to locate the assets like:raw materials,final products, and containers that is a particular object
+7.Connected vehicles-The main advantage of using them is it avoids accidents,it can respond faster than human
+8.Fleet management-it reduces the risk in vehicle investment,therby improving the efficiency and productivity
+9.Smarthomes-automating the things in home like automatic control of ligthing that is if there is a person it will on the light otherwise it will off it it also reduces the electricity usage,opening of doors,giving remainders
+10.Smart city- connecting all the places so that we can access what we want in the city like we can know where the traffic is more,and menu in some restorants,smart parking
+11.Smart irrigation-it determines the weather condition and soil moisture so that we can supply appropriate amount of water that soil needs
+12.Leakage Management-iot sensors can detect the temperature changes,water leakage,chemical leakage and pressure level in water tanks
+13.Smart locks-Eyelock is a security provider vendor that offers its clients an iris-based authentication solution
+14.Motion Detection-It gives IOT based home security market.It streams home/office videos and let users receive alerts when it detects any activity
+15.Medical fridges-It monitors the temperature of vaccine,medicines and organic elements for clinics and health centers
+16.Remote Patient monitoring-these are used to monitor the condition of patients who are resting at home after surgery
+17.Noise monitoring-In smart cities sound monitoring system can monitor noise levels and warn companies that violates limits and help manage noise levels
+18.Water Quality Management-IOT sensors can determine what kind of chemicals are in water.They also identify metrics such as total dissolved solids,bacteria,chlorine,electrical conductivity
+19.Ultraviolet Radiation Monitoring-IOt sensors measure UV sunrays to warn people not to be exposed in certain hours
+20.Layout optimization-Sensors in the store collect data like voice,image or video to bettter understand customer habitsand preferences.Retailers can get insight to redesign the layout of their stores
